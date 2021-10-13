@@ -1,8 +1,8 @@
-PWD d:/Dropbox/Iwamoto seminar 2011-2012/政策論文/政策論文2019/卒論大村/english/tex
+PWD d:/OneDrive/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main
 INPUT d:/texlive/2021/texmf.cnf
 INPUT d:/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT d:/texlive/2021/texmf-var/web2c/eptex/platex.fmt
-INPUT d:/Dropbox/Iwamoto seminar 2011-2012/政策論文/政策論文2019/卒論大村/english/tex/graduation_20210104.tex
+INPUT d:/OneDrive/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.tex
 OUTPUT graduation_20210104.log
 INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
@@ -433,4 +433,44 @@ INPUT ./bond09.pdf
 INPUT ./bond09.pdf
 INPUT bond09.pdf
 INPUT extractbb -B cropbox -O bond09.pdf
+INPUT ./jimpulse.pdf
+INPUT ./jimpulse.pdf
+INPUT jimpulse.pdf
+INPUT extractbb -B cropbox -O jimpulse.pdf
+INPUT ./ijbond.pdf
+INPUT ./ijbond.pdf
+INPUT ijbond.pdf
+INPUT extractbb -B cropbox -O ijbond.pdf
+INPUT ./ijrate.pdf
+INPUT ./ijrate.pdf
+INPUT ijrate.pdf
+INPUT extractbb -B cropbox -O ijrate.pdf
+INPUT ./ijstock.pdf
+INPUT ./ijstock.pdf
+INPUT ijstock.pdf
+INPUT extractbb -B cropbox -O ijstock.pdf
+INPUT ./ijcpi.pdf
+INPUT ./ijcpi.pdf
+INPUT ijcpi.pdf
+INPUT extractbb -B cropbox -O ijcpi.pdf
+INPUT ./eimpulse.pdf
+INPUT ./eimpulse.pdf
+INPUT eimpulse.pdf
+INPUT extractbb -B cropbox -O eimpulse.pdf
+INPUT ./ielibor.pdf
+INPUT ./ielibor.pdf
+INPUT ielibor.pdf
+INPUT extractbb -B cropbox -O ielibor.pdf
+INPUT ./ierate.pdf
+INPUT ./ierate.pdf
+INPUT ierate.pdf
+INPUT extractbb -B cropbox -O ierate.pdf
+INPUT ./iestock.pdf
+INPUT ./iestock.pdf
+INPUT iestock.pdf
+INPUT extractbb -B cropbox -O iestock.pdf
+INPUT ./iehicp.pdf
+INPUT ./iehicp.pdf
+INPUT iehicp.pdf
+INPUT extractbb -B cropbox -O iehicp.pdf
 INPUT graduation_20210104.aux

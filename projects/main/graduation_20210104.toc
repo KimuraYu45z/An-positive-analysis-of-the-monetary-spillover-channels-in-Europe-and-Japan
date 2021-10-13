@@ -9,3 +9,4 @@
 \contentsline {section}{\numberline {4}Details of the data used}{14}{}%
 \contentsline {section}{\numberline {5}Results of the analysis}{19}{}%
 \contentsline {subsection}{\numberline {5.1}Cholesky Decomposition}{19}{}%
+\contentsline {subsection}{\numberline {5.2}Multiple regression analysis}{26}{}%
