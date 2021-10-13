@@ -1,0 +1,133 @@
+
+{
+	"commands" : 
+	[
+		"import(link) \"F:\\Dropbox\\Iwamoto seminar 2011-2012\\政策論文\\政策論文2019\\卒論大村\\data\\JPall.xlsx\" range=Sheet1 colhead=1 na=\"#N/A\" @freq D5 @id @date(series01) @smpl @all"
+	],
+	"description" : "Generated based on timer.",
+	"label" : "auto",
+	"workbook_meta" : 
+	{
+		"_name" : "f:\\dropbox\\iwamoto seminar 2011-2012\\政策論文\\政策論文2019\\卒論大村\\eviews\\jpall.wf1",
+		"_pages" : 
+		[
+			
+			{
+				"_frequency" : "D5",
+				"_last_update" : [ 737743.0304629629, "11/15/2020 00:43" ],
+				"_name" : "Jpall",
+				"_obj_count" : 20,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : [ "date" ],
+						"_name" : [ "DATEID" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "BALANCE",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "BOND",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "C2CPI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "C2CPIORG",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "CAB",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "CPIE",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "CPIWITHOUTFORG",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DATEID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DUMMY",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LIBOR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MB",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MBORG",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "NIKKEI225",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "SERIES01",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "STOCK",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "TIBOR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "USDJPY",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "USDJPYORG",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 1613
+			}
+		]
+	}
+}

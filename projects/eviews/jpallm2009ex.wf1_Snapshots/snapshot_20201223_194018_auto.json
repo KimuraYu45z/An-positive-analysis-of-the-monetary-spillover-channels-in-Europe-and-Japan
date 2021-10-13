@@ -1,0 +1,222 @@
+
+{
+	"commands" : "",
+	"description" : "Generated when this file was opened on 2021/01/05 23:17:44.",
+	"label" : "auto base",
+	"workbook_meta" : 
+	{
+		"_name" : "d:\\dropbox\\iwamoto seminar 2011-2012\\ê≠çÙò_ï∂\\ê≠çÙò_ï∂2019\\ë≤ò_ëÂë∫\\eviews\\jpallm2009ex.wf1",
+		"_pages" : 
+		[
+			
+			{
+				"_frequency" : "M",
+				"_last_update" : [ 737750.3844907407, "11/22/2020 09:13" ],
+				"_name" : "Jpallm2009",
+				"_obj_count" : 38,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "date",
+						"_name" : "@DATE",
+						"_obs_max" : [ 737393.0, "12/01/2019" ],
+						"_obs_min" : [ 733407.0, "01/01/2009" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "BOND",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "CPI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DUMMY",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "E_JBOND",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "E_JCPI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "E_JSTOCK",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EQ01",
+						"_type" : "EQUATION"
+					},
+					
+					{
+						"_name" : "EQ02",
+						"_type" : "EQUATION"
+					},
+					
+					{
+						"_name" : "GRAPH01",
+						"_type" : "GRAPH"
+					},
+					
+					{
+						"_name" : "GRAPH02",
+						"_type" : "GRAPH"
+					},
+					
+					{
+						"_name" : "GRAPH03",
+						"_type" : "GRAPH"
+					},
+					
+					{
+						"_name" : "GRAPH04",
+						"_type" : "GRAPH"
+					},
+					
+					{
+						"_name" : "GRAPH05",
+						"_type" : "GRAPH"
+					},
+					
+					{
+						"_name" : "GRAPH06",
+						"_type" : "GRAPH"
+					},
+					
+					{
+						"_name" : "JBOND",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "JCPI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "JLIBOR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "JMB",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "JSTOCK",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "JTARGETDUMMY",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "JTAXDUMMY",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LIBOR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LOG_CPI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LOG_MB",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LOG_NIKKEI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LOG_USDJPY",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MB",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "NIKKEI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "OSDUMMY",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "SERIES01",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "TABLE01",
+						"_type" : "TABLE"
+					},
+					
+					{
+						"_name" : "TABLE02",
+						"_type" : "TABLE"
+					},
+					
+					{
+						"_name" : "TAXDUMMY",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "USDJPY",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "VAR01",
+						"_type" : "VAR"
+					},
+					
+					{
+						"_name" : "VAR02",
+						"_type" : "VAR"
+					}
+				],
+				"_obs_count" : 132
+			}
+		]
+	}
+}

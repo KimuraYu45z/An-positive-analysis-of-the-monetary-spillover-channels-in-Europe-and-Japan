@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {2}Previous studies}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Effects of the Quantitative and Qualitative Monetary Easing Policy in Japan}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Effects of monetary easing policies in Europe}{7}{}%
+\contentsline {section}{\numberline {3}Analysis method}{9}{}%
+\contentsline {subsection}{\numberline {3.1}Structural VAR Model}{9}{}%
+\contentsline {subsection}{\numberline {3.2}Dummy variables and multiple regression equations}{11}{}%
+\contentsline {subsection}{\numberline {3.3}Problems in the analysis}{13}{}%
+\contentsline {section}{\numberline {4}Details of the data used}{14}{}%
+\contentsline {section}{\numberline {5}Results of the analysis}{19}{}%
+\contentsline {subsection}{\numberline {5.1}Cholesky Decomposition}{19}{}%

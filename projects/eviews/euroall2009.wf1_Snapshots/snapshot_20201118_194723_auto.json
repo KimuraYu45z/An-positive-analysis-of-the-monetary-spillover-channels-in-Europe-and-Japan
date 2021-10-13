@@ -1,0 +1,170 @@
+
+{
+	"commands" : 
+	[
+		"import \"F:\\Dropbox\\Iwamoto seminar 2011-2012\\政策論文\\政策論文2019\\卒論大村\\data\\EUROall2009.xlsx\" range=Sheet1 colhead=1 na=\"#N/A\" @freq M @id @date(series01) @smpl @all",
+		"{%equation}.ls log_hicp_sa c log_mb libor bond usduer log_stoxx dummy",
+		"{%equation}.ls log_hicp_sa c libor bond usduer log_stoxx dummy",
+		"{%equation}.ls log_hicp_sa c mb libor bond usduer log_stoxx dummy",
+		"{%equation}.ls log_hicp_sa c libor bond usduer log_stoxx dummy",
+		"copy LOG_HICP_SA EHICP",
+		"copy LIBOR ELIBOR",
+		"copy BOND EBOND",
+		"USDUER.rename usdeur",
+		"copy LOG_STOXX ESTOCK",
+		"copy DUMMY EDUMMY",
+		"{%equation}.rename eq01",
+		"{%equation}.ls ehicp c elibor ebond usdeur estock edummy",
+		"{%table}.table",
+		"{%equation}.rename eq02",
+		"{%table}.rename table01"
+	],
+	"description" : "Generated based on timer.",
+	"label" : "auto",
+	"workbook_meta" : 
+	{
+		"_name" : "f:\\dropbox\\iwamoto seminar 2011-2012\\政策論文\\政策論文2019\\卒論大村\\eviews\\euroall2009.wf1",
+		"_pages" : 
+		[
+			
+			{
+				"_frequency" : "M",
+				"_last_update" : [ 737746.7929513889, "11/18/2020 19:01" ],
+				"_name" : "Euroall2009",
+				"_obj_count" : 24,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "date",
+						"_name" : "@DATE",
+						"_obs_max" : [ 737393.0, "12/01/2019" ],
+						"_obs_min" : [ 733407.0, "01/01/2009" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "BOND",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "DUMMY",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EBOND",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EDUMMY",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EHICP",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "ELIBOR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EQ01",
+						"_type" : "EQUATION"
+					},
+					
+					{
+						"_name" : "EQ02",
+						"_type" : "EQUATION"
+					},
+					
+					{
+						"_name" : "ESTOCK",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EURUSD",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "HICP",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "HICP_SA",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LIBOR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LOG_HICP_SA",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LOG_MB",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LOG_STOXX",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MB",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MB_CUBIC",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "SERIES01",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "STOXX50",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "TABLE01",
+						"_type" : "TABLE"
+					},
+					
+					{
+						"_name" : "USDEUR",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 132
+			}
+		]
+	}
+}
