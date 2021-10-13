@@ -608,6 +608,58 @@ On the other hand, there was no decline in the long-term interest rate due to th
 \end{figure}
 
 \newpage
+
 \subsection{Multiple regression analysis}
+
+Next, in order to measure the effect on prices of the Bank of Japan's announcements of its commitment to the price target, the following two types of announcements with different timing were used as dummy variables, and their effects were measured using multiple regression analysis.
+
+First, the Augmented Dickey-Fuller (ADF) test was performed as a unit root test to check for unit root processes in $JLIBOR$, $JBOND$, $USDJPY$, and $JCPI$ among the data used.
+In the level data, the unit root process was rejected only for $JLIBOR$.
+For $JCPI$, $JBOND$, and $USDJPY$, for which the unit root process could not be rejected in the level data, the unit root process could be rejected by taking the first difference and used in the multiple regression analysis.
+
+In regressions on the difference series, the consumption tax hike dummy variable $TAXDUMMY$ was used to account for temporary price increases, so it was also used after taking the difference.
+On the other hand, the policy announcement dummy variables $ITDUMMY$ and $OSDUMMY$ were used without taking the difference because they were assumed to continue to have an impact on the inflation rate in the future rather than having a temporary effect.
+
+First, a multiple regression analysis was conducted on the changes before and after the introduction of Japan's price stability target of 2\% inflation.
+The results show that the coefficient of the policy dummy variable ($ITDUMMY$) is positive and significant. The details of the results are shown in Figure 13.
+
+Next, a similar multiple regression analysis was conducted on the changes before and after the introduction of the "Overshooting Commitment," which was issued to strengthen the framework for the continuation of strong monetary easing.
+The results show that the coefficient of the policy dummy variable ($OSDUMMY$) is negative and insignificant. The details of the results are shown in Figure 14.
+
+\newpage
+
+\begin{figure}[!htbp]
+    \centering
+    \caption{The results of multiple regression analysis with the introduction of inflation targeting}
+    \vspace{5pt}
+    \includegraphics[width=11cm]{it.pdf}
+
+    The null hypothesis for $ITDUMMY$ is rejected at the 5\% significance level.
+\end{figure}
+
+\begin{figure}[!htbp]
+    \centering
+    \caption{The results of multiple regression analysis with the introduction of overshooting commitment}
+    \vspace{5pt}
+    \includegraphics[width=11cm]{os.pdf}
+\end{figure}
+
+\newpage
+
+\subsection{Discussion of Analysis Results}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \end{document}

@@ -473,4 +473,12 @@ INPUT ./iehicp.pdf
 INPUT ./iehicp.pdf
 INPUT iehicp.pdf
 INPUT extractbb -B cropbox -O iehicp.pdf
+INPUT ./it.pdf
+INPUT ./it.pdf
+INPUT it.pdf
+INPUT extractbb -B cropbox -O it.pdf
+INPUT ./os.pdf
+INPUT ./os.pdf
+INPUT os.pdf
+INPUT extractbb -B cropbox -O os.pdf
 INPUT graduation_20210104.aux

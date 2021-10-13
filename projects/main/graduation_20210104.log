@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.sjis) (TeX Live 2021/W32TeX) (preloaded format=platex 2021.10.9)  13 OCT 2021 16:15
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.sjis) (TeX Live 2021/W32TeX) (preloaded format=platex 2021.10.9)  13 OCT 2021 22:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -405,14 +405,24 @@ Overfull \hbox (2.61107pt too wide) in paragraph at lines 584--608
 []$[]$[] []$[]$[] 
  []
 
-[25] [26] (./graduation_20210104.aux) ) 
+[25]
+Overfull \hbox (27.32054pt too wide) in paragraph at lines 620--622
+[]\OT1/cmr/m/n/10.95 In re-gres-sions on the dif-fer-ence se-ries, the con-sump-tion tax hike dummy vari-able $\OML/cmm/m/it/10.95 TAXDUMMY$
+ []
+
+[26]
+File: it.pdf Graphic file (type pdf)
+<it.pdf>
+File: os.pdf Graphic file (type pdf)
+<os.pdf>
+ [27] [28] (./graduation_20210104.aux) ) 
 Here is how much of TeX's memory you used:
- 3813 strings out of 479062
- 54554 string characters out of 5869667
+ 3824 strings out of 479062
+ 54720 string characters out of 5869667
  383398 words of memory out of 5000000
- 21830 multiletter control sequences out of 15000+600000
+ 21838 multiletter control sequences out of 15000+600000
  428705 words of font info for 125 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  57i,15n,66p,526b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on graduation_20210104.dvi (29 pages, 55780 bytes).
+Output written on graduation_20210104.dvi (31 pages, 59692 bytes).
