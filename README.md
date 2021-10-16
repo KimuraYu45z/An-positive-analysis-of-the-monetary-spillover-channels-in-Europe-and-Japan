@@ -1,4 +1,4 @@
-# An positive analysis of the monetaryspillover channels in Europe and Japan
+# An positive analysis of the monetary spillover channels in Europe and Japan
 
 ## Faculty of Economics, Kyoto University
 
