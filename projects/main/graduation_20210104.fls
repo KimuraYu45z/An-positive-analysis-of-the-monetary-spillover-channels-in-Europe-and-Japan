@@ -1,484 +1,192 @@
-PWD d:/OneDrive/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main
-INPUT d:/texlive/2021/texmf.cnf
-INPUT d:/texlive/2021/texmf-dist/web2c/texmf.cnf
-INPUT d:/texlive/2021/texmf-var/web2c/eptex/platex.fmt
-INPUT d:/OneDrive/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.tex
-OUTPUT graduation_20210104.log
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/size12.clo
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/size12.clo
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/size12.clo
-INPUT d:/texlive/2021/texmf-dist/tex/latex/base/size12.clo
-INPUT d:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT d:/texlive/2021/texmf-dist/tex/platex/pxchfon/pxchfon.sty
-INPUT d:/texlive/2021/texmf-dist/tex/platex/pxchfon/pxchfon.sty
-INPUT d:/texlive/2021/texmf-dist/tex/platex/pxchfon/pxchfon.sty
-INPUT d:/texlive/2021/texmf-dist/tex/platex/pxchfon/pxchfon.sty
-INPUT d:/texlive/2021/texmf-dist/tex/platex/pxchfon/pxchfon.sty
-INPUT d:/texlive/2021/texmf-dist/tex/platex/pxchfon/pxchfon.sty
-INPUT d:/texlive/2021/texmf-dist/tex/platex/pxchfon/pxchfon.sty
-INPUT d:/texlive/2021/texmf-dist/tex/platex/pxchfon/pxchfon.sty
-INPUT d:/texlive/2021/texmf-dist/tex/platex/pxchfon/pxchfon.sty
-INPUT d:/texlive/2021/texmf-dist/tex/platex/pxchfon/pxchfon.sty
-INPUT d:/texlive/2021/texmf-dist/tex/platex/pxchfon/pxchfon.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/pxufont/pxufont-ruby.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/pxufont/pxufont-ruby.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/float/float.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/float/float.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/float/float.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/float/float.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/float/float.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/float/float.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/float/float.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/float/float.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/float/float.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/float/float.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/float/float.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/eurosym/eurosym.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/eurosym/eurosym.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/eurosym/eurosym.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/eurosym/eurosym.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/eurosym/eurosym.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/eurosym/eurosym.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/eurosym/eurosym.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/eurosym/eurosym.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/eurosym/eurosym.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/eurosym/eurosym.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/eurosym/eurosym.sty
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-INPUT ./graduation_20210104.aux
-INPUT graduation_20210104.aux
-INPUT graduation_20210104.aux
-OUTPUT graduation_20210104.aux
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT d:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
-OUTPUT graduation_20210104.dvi
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT ./graduation_20210104.toc
-INPUT graduation_20210104.toc
-INPUT graduation_20210104.toc
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib8.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
-OUTPUT graduation_20210104.toc
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
-INPUT ./currentaccount.pdf
-INPUT ./currentaccount.pdf
-INPUT currentaccount.pdf
+PWD c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main
+INPUT f:/Program Files/texlive/2019/texmf.cnf
+INPUT f:/Program Files/texlive/2019/texmf-dist/web2c/texmf.cnf
+INPUT f:/Program Files/texlive/2019/texmf-var/web2c/eptex/platex.fmt
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.tex
+OUTPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.log
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/base/article.cls
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/base/article.cls
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/base/size12.clo
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/base/size12.clo
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/platex/pxchfon/pxchfon.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/platex/pxchfon/pxchfon.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/pxufont/pxufont-ruby.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/tools/bm.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/tools/bm.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/url/url.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/url/url.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/float/float.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/float/float.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/eurosym/eurosym.sty
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/eurosym/eurosym.sty
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.aux
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.aux
+OUTPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.aux
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT f:/Program Files/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
+OUTPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.dvi
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.toc
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.toc
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib8.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
+OUTPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.toc
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/currentaccount.pdf
 INPUT extractbb -B cropbox -O currentaccount.pdf
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib5.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
-INPUT d:/texlive/2021/texmf-dist/fonts/tfm/public/eurosym/feymr10.tfm
-INPUT ./mbfix.pdf
-INPUT ./mbfix.pdf
-INPUT mbfix.pdf
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib5.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/eurosym/feymr10.tfm
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/mbfix.pdf
 INPUT extractbb -B cropbox -O mbfix.pdf
-INPUT ./cpi09.pdf
-INPUT ./cpi09.pdf
-INPUT cpi09.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/cpi09.pdf
 INPUT extractbb -B cropbox -O cpi09.pdf
-INPUT ./libor09.pdf
-INPUT ./libor09.pdf
-INPUT libor09.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/libor09.pdf
 INPUT extractbb -B cropbox -O libor09.pdf
-INPUT ./bond09.pdf
-INPUT ./bond09.pdf
-INPUT bond09.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/bond09.pdf
 INPUT extractbb -B cropbox -O bond09.pdf
-INPUT ./jimpulse.pdf
-INPUT ./jimpulse.pdf
-INPUT jimpulse.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/jimpulse.pdf
 INPUT extractbb -B cropbox -O jimpulse.pdf
-INPUT ./ijbond.pdf
-INPUT ./ijbond.pdf
-INPUT ijbond.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/ijbond.pdf
 INPUT extractbb -B cropbox -O ijbond.pdf
-INPUT ./ijrate.pdf
-INPUT ./ijrate.pdf
-INPUT ijrate.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/ijrate.pdf
 INPUT extractbb -B cropbox -O ijrate.pdf
-INPUT ./ijstock.pdf
-INPUT ./ijstock.pdf
-INPUT ijstock.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/ijstock.pdf
 INPUT extractbb -B cropbox -O ijstock.pdf
-INPUT ./ijcpi.pdf
-INPUT ./ijcpi.pdf
-INPUT ijcpi.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/ijcpi.pdf
 INPUT extractbb -B cropbox -O ijcpi.pdf
-INPUT ./eimpulse.pdf
-INPUT ./eimpulse.pdf
-INPUT eimpulse.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/eimpulse.pdf
 INPUT extractbb -B cropbox -O eimpulse.pdf
-INPUT ./ielibor.pdf
-INPUT ./ielibor.pdf
-INPUT ielibor.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/ielibor.pdf
 INPUT extractbb -B cropbox -O ielibor.pdf
-INPUT ./ierate.pdf
-INPUT ./ierate.pdf
-INPUT ierate.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/ierate.pdf
 INPUT extractbb -B cropbox -O ierate.pdf
-INPUT ./iestock.pdf
-INPUT ./iestock.pdf
-INPUT iestock.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/iestock.pdf
 INPUT extractbb -B cropbox -O iestock.pdf
-INPUT ./iehicp.pdf
-INPUT ./iehicp.pdf
-INPUT iehicp.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/iehicp.pdf
 INPUT extractbb -B cropbox -O iehicp.pdf
-INPUT ./it.pdf
-INPUT ./it.pdf
-INPUT it.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/it.pdf
 INPUT extractbb -B cropbox -O it.pdf
-INPUT ./os.pdf
-INPUT ./os.pdf
-INPUT os.pdf
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/os.pdf
 INPUT extractbb -B cropbox -O os.pdf
-INPUT graduation_20210104.aux
+INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.aux
