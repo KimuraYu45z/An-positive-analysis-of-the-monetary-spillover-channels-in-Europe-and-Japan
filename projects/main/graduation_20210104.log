@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2020.1.22)  16 OCT 2021 18:30
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2020.1.22)  16 OCT 2021 18:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -183,7 +183,107 @@ Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box50
 )
 \arrayrulewidthb=\dimen153
- (c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.aux)
+ (c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
 \openout1 = `graduation_20210104.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
@@ -404,14 +504,18 @@ File: it.pdf Graphic file (type pdf)
 <it.pdf>
 File: os.pdf Graphic file (type pdf)
 <os.pdf>
- [27] [28] [29] [30] [31] [32] (c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.aux) ) 
+ [27] [28] [29] [30] [31] [32] [33] [34] [35] (c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3107 strings out of 493230
- 43907 string characters out of 6142327
- 130363 words of memory out of 5000000
- 7001 multiletter control sequences out of 15000+600000
- 28578 words of font info for 111 fonts, out of 8000000 for 9000
+ 3110 strings out of 493230
+ 43933 string characters out of 6142327
+ 130406 words of memory out of 5000000
+ 7003 multiletter control sequences out of 15000+600000
+ 28746 words of font info for 112 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  27i,15n,27p,529b,465s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.dvi (35 pages, 71820 bytes).
+Output written on c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.dvi (38 pages, 80980 bytes).

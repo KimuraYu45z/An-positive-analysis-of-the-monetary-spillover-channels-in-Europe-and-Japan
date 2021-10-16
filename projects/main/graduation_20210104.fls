@@ -189,4 +189,5 @@ INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-tra
 INPUT extractbb -B cropbox -O it.pdf
 INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/os.pdf
 INPUT extractbb -B cropbox -O os.pdf
+INPUT f:/Program Files/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT c:/Users/Senna/github.com/Senna46/An-positive-analysis-of-the-monetary-transmission-mechanism-in-Europe-and-Japan/projects/main/graduation_20210104.aux
