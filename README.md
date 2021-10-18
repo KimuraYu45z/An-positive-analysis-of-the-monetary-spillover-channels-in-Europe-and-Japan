@@ -8,7 +8,7 @@
 
 ### Abstract
 
-The purpose of this paper is to identify the spillover channels of monetary easing policiesin Europe and Japan today. In addition, I suggest what kind of additional monetary easingmight work more effectively. To this end, I use macroeconomic data for Europe and Japanto analyze how monetary easing policies affect financial markets, foreign exchange markets,and inflation rates in these regions.
+The purpose of this paper is to identify the spillover channels of monetary easing policiesin Europe and Japan today. In addition, I suggest what kind of additional monetary easingmight work more effectively. To this end, I use macroeconomic data of Europe and Japanto analyze how monetary easing policies affect financial markets, foreign exchange markets,and inflation rates in these regions.
 
 #### Thanks
 
